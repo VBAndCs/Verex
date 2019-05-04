@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>Verex</AssemblyName>
+    <RootNamespace>RegexBuilder</RootNamespace>
+    <Description>Verex is a Verbal Regular Expressions Builder, that makes creating Regex for C# and VB.NET very easy, and makes your code readable and meaningful.</Description>
+    <Copyright>Mohammeh Hamdy Ghanem @2018</Copyright>
+    <Authors>Mohammad hamdy Ghanem</Authors>
+    <PackageLicenseUrl>https://github.com/MohammadHamdyGhanem/Verex/blob/master/LICENSE.txt</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/MohammadHamdyGhanem/Verex</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/MohammadHamdyGhanem/Verex</RepositoryUrl>
+    <PackageTags>Regex, .NETStandard2.0, C#, VB.NET, RegularExpressionsBuilder</PackageTags>
+    <RepositoryType />
+    <Version>1.2.0</Version>
+    <AssemblyVersion>1.2.0.0</AssemblyVersion>
+    <FileVersion>1.2.0.0</FileVersion>
+  </PropertyGroup>
+
+</Project>

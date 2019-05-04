@@ -1,0 +1,9 @@
+C:\Users\mhg\Documents\Visual Studio 2017\Projects\RegexBuilder\ClassLibrary4\bin\Debug\netstandard2.0\RegexBuilder.deps.json
+C:\Users\mhg\Documents\Visual Studio 2017\Projects\RegexBuilder\ClassLibrary4\bin\Debug\netstandard2.0\RegexBuilder.dll
+C:\Users\mhg\Documents\Visual Studio 2017\Projects\RegexBuilder\ClassLibrary4\bin\Debug\netstandard2.0\RegexBuilder.pdb
+C:\Users\mhg\Documents\Visual Studio 2017\Projects\RegexBuilder\ClassLibrary4\obj\Debug\netstandard2.0\ClassLibrary4.csprojResolveAssemblyReference.cache
+C:\Users\mhg\Documents\Visual Studio 2017\Projects\RegexBuilder\ClassLibrary4\obj\Debug\netstandard2.0\ClassLibrary4.csproj.CoreCompileInputs.cache
+C:\Users\mhg\Documents\Visual Studio 2017\Projects\RegexBuilder\ClassLibrary4\obj\Debug\netstandard2.0\ClassLibrary4.AssemblyInfoInputs.cache
+C:\Users\mhg\Documents\Visual Studio 2017\Projects\RegexBuilder\ClassLibrary4\obj\Debug\netstandard2.0\ClassLibrary4.AssemblyInfo.cs
+C:\Users\mhg\Documents\Visual Studio 2017\Projects\RegexBuilder\ClassLibrary4\obj\Debug\netstandard2.0\RegexBuilder.dll
+C:\Users\mhg\Documents\Visual Studio 2017\Projects\RegexBuilder\ClassLibrary4\obj\Debug\netstandard2.0\RegexBuilder.pdb

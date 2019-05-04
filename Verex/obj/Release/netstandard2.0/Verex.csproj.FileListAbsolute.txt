@@ -1,0 +1,8 @@
+F:\_VS.NET\Verex\Verex\bin\Release\netstandard2.0\Verex.deps.json
+F:\_VS.NET\Verex\Verex\bin\Release\netstandard2.0\Verex.dll
+F:\_VS.NET\Verex\Verex\bin\Release\netstandard2.0\Verex.pdb
+F:\_VS.NET\Verex\Verex\obj\Release\netstandard2.0\Verex.csproj.CoreCompileInputs.cache
+F:\_VS.NET\Verex\Verex\obj\Release\netstandard2.0\Verex.AssemblyInfoInputs.cache
+F:\_VS.NET\Verex\Verex\obj\Release\netstandard2.0\Verex.AssemblyInfo.cs
+F:\_VS.NET\Verex\Verex\obj\Release\netstandard2.0\Verex.dll
+F:\_VS.NET\Verex\Verex\obj\Release\netstandard2.0\Verex.pdb

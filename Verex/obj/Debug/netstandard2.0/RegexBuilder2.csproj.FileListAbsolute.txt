@@ -1,0 +1,9 @@
+C:\Users\mhg\Desktop\RegexBuilder2\ClassLibrary4\obj\Debug\netstandard2.0\RegexBuilder2.csprojAssemblyReference.cache
+C:\Users\mhg\Desktop\RegexBuilder2\ClassLibrary4\obj\Debug\netstandard2.0\RegexBuilder2.csproj.CoreCompileInputs.cache
+C:\Users\mhg\Desktop\RegexBuilder2\ClassLibrary4\obj\Debug\netstandard2.0\RegexBuilder2.AssemblyInfoInputs.cache
+C:\Users\mhg\Desktop\RegexBuilder2\ClassLibrary4\obj\Debug\netstandard2.0\RegexBuilder2.AssemblyInfo.cs
+C:\Users\mhg\Desktop\RegexBuilder2\ClassLibrary4\obj\Debug\netstandard2.0\RegexBuilder.dll
+C:\Users\mhg\Desktop\RegexBuilder2\ClassLibrary4\obj\Debug\netstandard2.0\RegexBuilder.pdb
+C:\Users\mhg\Desktop\RegexBuilder2\ClassLibrary4\bin\Debug\netstandard2.0\RegexBuilder.deps.json
+C:\Users\mhg\Desktop\RegexBuilder2\ClassLibrary4\bin\Debug\netstandard2.0\RegexBuilder.dll
+C:\Users\mhg\Desktop\RegexBuilder2\ClassLibrary4\bin\Debug\netstandard2.0\RegexBuilder.pdb
